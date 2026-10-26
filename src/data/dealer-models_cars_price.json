@@ -1,29 +1,5 @@
 [
   {
-    "brand": "Great Wall",
-    "model": "GWM POER",
-    "price": 3749000,
-    "benefit": 111010
-  },
-  {
-    "brand": "Haval",
-    "model": "DARGO",
-    "price": 2899980,
-    "benefit": 860020
-  },
-  {
-    "brand": "Haval",
-    "model": "F7",
-    "price": 2217010,
-    "benefit": 1064720
-  },
-  {
-    "brand": "Haval",
-    "model": "F7x",
-    "price": 2837670,
-    "benefit": 923340
-  },
-  {
     "brand": "Haval",
     "model": "H3",
     "price": 2013333,
@@ -46,17 +22,5 @@
     "model": "H9",
     "price": 3851010,
     "benefit": 900000
-  },
-  {
-    "brand": "Haval",
-    "model": "JOLION",
-    "price": 1737790,
-    "benefit": 779130
-  },
-  {
-    "brand": "Haval",
-    "model": "M6",
-    "price": 1599661,
-    "benefit": 526320
   }
 ]
